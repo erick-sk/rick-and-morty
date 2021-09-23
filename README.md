@@ -1,19 +1,11 @@
-# rick-and-morty-vue3
+# Rick and Morty
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab763651-b03c-4827-be44-7ee0cbd401e1/deploy-status)](https://rickandmorty-erick-sk.netlify.app)
 
-## Project setup
-```
-yarn install
-```
+Are you a Rick and Morty fan? Then here you can see the status of your favorite character, is he alive or dead? Let's find out!
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## API
+https://rickandmortyapi.com/
 
-### Compiles and minifies for production
-```
-yarn build
-```
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
